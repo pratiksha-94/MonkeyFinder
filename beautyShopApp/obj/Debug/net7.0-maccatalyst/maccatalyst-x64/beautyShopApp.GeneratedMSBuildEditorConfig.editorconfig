@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = beautyShopApp
+build_property.ProjectDir = C:\Users\Antargyan.com\source\repos\beautyShopApp\
+
+[C:/Users/Antargyan.com/source/repos/beautyShopApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = beautyShopApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Antargyan.com/source/repos/beautyShopApp/Views/DetailView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = beautyShopApp.Views.DetailView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DetailView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DetailView.xaml
+
+[C:/Users/Antargyan.com/source/repos/beautyShopApp/Views/HomeView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = beautyShopApp.Views.HomeView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\HomeView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\HomeView.xaml
+
+[C:/Users/Antargyan.com/source/repos/beautyShopApp/Views/Templates/ProductItemTemplate.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = beautyShopApp.Views.Templates.ProductItemTemplate.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Templates\ProductItemTemplate.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Templates\ProductItemTemplate.xaml
+
+[C:/Users/Antargyan.com/source/repos/beautyShopApp/Views/Templates/ResultsItemTemplate.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = beautyShopApp.Views.Templates.ResultsItemTemplate.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Templates\ResultsItemTemplate.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Templates\ResultsItemTemplate.xaml

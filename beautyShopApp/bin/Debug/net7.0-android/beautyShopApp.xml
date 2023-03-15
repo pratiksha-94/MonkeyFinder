@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>beautyShopApp</name>
+    </assembly>
+    <members>
+        <member name="T:beautyShopApp.Controls.VariableSizedWrapGrid">
+            <summary>
+            Provides a grid-style layout panel where each tile/cell can be variable size based on content.
+            </summary>
+        </member>
+    </members>
+</doc>
